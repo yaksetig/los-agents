@@ -20,7 +20,7 @@ body { font-family: var(--font-sans); color: var(--color-dark); background: var(
   color: #fff;
   padding: 0 1rem;
 }
-.hero-logo { height: 80px; margin-bottom: 1.5rem; }
+.hero-logo { height: 150px; margin-bottom: 1rem; }
 #hero h1 { font-size: 3rem; margin-bottom: 1rem; }
 #hero p { font-size: 1.25rem; margin-bottom: 2rem; }
 .btn {
